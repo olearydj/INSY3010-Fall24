@@ -128,5 +128,5 @@ Both *Think Python*, 3rd Edition and *Python for Everybody* are licensed under t
 
 ### Licensing
 
-Like those before it, this work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original content and modifications by Danny J. O'Leary ([dan.oleary@auburn.edu](mailto:djo0008@auburn.edu)), building on the works mentioned above.
+Like those before it, this work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Original content and modifications by Danny J. O'Leary ([dan.oleary@auburn.edu](mailto:djo0008@auburn.edu)), building on the works mentioned above. You can find a copy of the full text of the license here: [LICENSE](LICENSE).
 
